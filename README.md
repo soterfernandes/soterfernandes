@@ -99,12 +99,12 @@ graph TB
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soterfernandes&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soterfernandes&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.demolab.com?user=soterfernandes&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soterfernandes&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soterfernandes&include_all_commits=true&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=soterfernandes&theme=tokyonight&no-frame=true&column=4" height="165" alt="Trophies"/>
 </p>
 
@@ -113,7 +113,7 @@ graph TB
 ### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soterfernandes/soterfernandes/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
