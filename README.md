@@ -45,18 +45,42 @@ Busco sempre código limpo, segurança em dados sensíveis (LGPD) e arquitetura 
 
 ---
 
+<div align="center">
+
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição |
-|---------|-----------|
-| [**dotnet-crm-fintech-showcase**](https://github.com/soterfernandes/dotnet-crm-fintech-showcase) | Arquitetura de CRM financeiro em .NET — camadas, padrões e decisões técnicas |
-| **FamCred CRM** *(privado)* | CRM de consignado em produção — propostas, margem, exportações analíticas e robôs |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Projeto</th>
+      <th align="left">Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/soterfernandes/dotnet-crm-fintech-showcase"><b>dotnet-crm-fintech-showcase</b></a></td>
+      <td>Arquitetura de CRM financeiro em .NET — camadas, padrões e decisões técnicas</td>
+    </tr>
+    <tr>
+      <td><b>FamCred CRM</b> <i>(privado)</i></td>
+      <td>CRM de consignado em produção — propostas, margem, exportações analíticas e robôs</td>
+    </tr>
+  </tbody>
+</table>
 
-> Confira os repositórios fixados abaixo para mais detalhes.
+<sub>Confira os repositórios fixados abaixo para mais detalhes.</sub>
+
+</div>
 
 ---
 
-### 🏗 Visão geral da arquitetura (projeto principal)
+<div align="center">
+
+### 🏗 Visão geral da arquitetura
+
+<sub>Detalhes completos no <a href="https://github.com/soterfernandes/dotnet-crm-fintech-showcase">showcase</a></sub>
+
+</div>
 
 ```mermaid
 graph TB
@@ -96,34 +120,64 @@ graph TB
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="650"/>
-</p>
-
----
+<div align="center">
 
 ### 🐍 Contribuições
 
-<p align="center">
-  <img src="output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<img src="output/github-contribution-grid-snake.svg" alt="Snake animation" width="700"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 💡 Áreas de expertise
 
-| Área | Tecnologias / práticas |
-|------|------------------------|
-| **Backend** | ASP.NET Core 6/8, Dapper, Dommel, Repository Pattern |
-| **Frontend** | Blazor Server, MudBlazor, Radzen, JWT Session |
-| **Banco** | MySQL, migrações EF, SQL otimizado, índices |
-| **Automação** | Selenium Edge/Chrome, NCrontab, BackgroundService |
-| **Relatórios** | NPOI Excel, CsvHelper, pipelines de exportação |
-| **Segurança** | LGPD, mascaramento de CPF, JWT, perfis de acesso |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Área</th>
+      <th align="left">Tecnologias / práticas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>ASP.NET Core 6/8, Dapper, Dommel, Repository Pattern</td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>Blazor Server, MudBlazor, Radzen, JWT Session</td>
+    </tr>
+    <tr>
+      <td><b>Banco</b></td>
+      <td>MySQL, migrações EF, SQL otimizado, índices</td>
+    </tr>
+    <tr>
+      <td><b>Automação</b></td>
+      <td>Selenium Edge/Chrome, NCrontab, BackgroundService</td>
+    </tr>
+    <tr>
+      <td><b>Relatórios</b></td>
+      <td>NPOI Excel, CsvHelper, pipelines de exportação</td>
+    </tr>
+    <tr>
+      <td><b>Segurança</b></td>
+      <td>LGPD, mascaramento de CPF, JWT, perfis de acesso</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/eusotf" target="_blank">
+    <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soterfernandes&color=blueviolet&style=flat-square" alt="Profile views"/>
