@@ -13,12 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/animated-snake-game@v4
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: soterfernandes
-          outputs_path: dist
-
-      - run: mkdir -p output && cp dist/github-contribution-grid-snake.svg output/
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg?palette=github-dark
 
       - uses: EndBug/add-and-commit@v9
         with:
