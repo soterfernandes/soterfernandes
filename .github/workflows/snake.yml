@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: Platane/snk/svg-only@v3
         with:
@@ -19,6 +19,7 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg?palette=github-dark
 
-      - uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v10
         with:
           message: "chore: update contribution snake"
+          add: "output"
